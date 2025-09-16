@@ -40,7 +40,7 @@ export default function Home() {
             <span className="font-semibold"> plástica dos pés</span>, trazendo
             bem-estar e sofisticação em cada detalhe. Além dos atendimentos,
             ministramos{" "}
-            <span className="font-semibold">cursos profissionais</span>
+            <span className="font-semibold">cursos profissionais </span>
             para quem deseja ingressar ou se aperfeiçoar na área, compartilhando
             conhecimento e técnicas exclusivas.
           </p>
